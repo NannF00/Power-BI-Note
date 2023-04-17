@@ -32,3 +32,12 @@
 
 - 按日期范围
 ![image](https://user-images.githubusercontent.com/117897416/232507896-52179cef-d619-4007-a1b7-646b2872a21a.png)
+
+# 饼图(用户画像)
+
+![image](https://user-images.githubusercontent.com/117897416/232508809-2a876882-a5bf-4a97-a9a6-9f3db6e7fc14.png)
+
+# 条形图 (和饼图操作差不多)
+![image](https://user-images.githubusercontent.com/117897416/232510449-54c10e2e-3b40-4fe9-862a-08e1d79f80c8.png)
+
+
