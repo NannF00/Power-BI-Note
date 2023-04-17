@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/117897416/232501071-4b38f47f-e4ea-4c0c-b792-a24aa42a74f8.png)
 
-折线和堆积柱形图
+折线和堆积柱形图:堆积,指列序列在一个柱形中的堆积
 
 ![image](https://user-images.githubusercontent.com/117897416/232502114-a3ac4254-f4d2-48df-ba31-bf78725b5120.png)
 
