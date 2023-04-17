@@ -23,3 +23,12 @@
 - 烟台市数据
 ![image](https://user-images.githubusercontent.com/117897416/232500180-cb86de09-f15a-4b0f-b3e0-70c7f6156a20.png)
 
+# 切片器 (重要)
+
+- 可以按照筛选条件自动聚合
+
+- 按地理位置
+![image](https://user-images.githubusercontent.com/117897416/232507522-399344c7-764e-42a0-a091-881b2276f1f5.png)
+
+- 按日期范围
+![image](https://user-images.githubusercontent.com/117897416/232507896-52179cef-d619-4007-a1b7-646b2872a21a.png)
