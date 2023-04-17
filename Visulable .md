@@ -4,6 +4,11 @@
 
 折线和堆积柱形图:堆积,指列序列在一个柱形中的堆积
 
+共享轴可排序:
+
+![image](https://user-images.githubusercontent.com/117897416/232504640-cb5347fb-1ca4-4854-9185-f1a1960530af.png)
+
+
 ![image](https://user-images.githubusercontent.com/117897416/232502114-a3ac4254-f4d2-48df-ba31-bf78725b5120.png)
 
 切片器
