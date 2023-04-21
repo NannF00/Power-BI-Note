@@ -27,3 +27,7 @@ https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets#downlo
 - PowerBI pagiate report
 
 https://www.youtube.com/watch?v=s6Amctk3Z_g&list=PL1N57mwBHtN1icIhpjQOaRL8r9G-wytpT&index=2
+
+- 在dashboard中添加想要的图样
+
+![image](https://user-images.githubusercontent.com/117897416/233667367-d0f0a1e7-cdc9-4839-95ff-269dd3665e97.png)
