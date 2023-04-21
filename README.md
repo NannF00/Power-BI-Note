@@ -4,6 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/117897416/233639038-ac00d0b2-fcb2-4d95-ab21-a37ecb24a5b4.png)
 
+![image](https://user-images.githubusercontent.com/117897416/233639290-26b48583-bdc8-4af9-8693-7331163dbda0.png)
+
 - some samples from microsoft
 
 https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets
