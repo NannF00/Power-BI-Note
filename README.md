@@ -23,3 +23,7 @@ https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets#downlo
    下载PowerBI中的Dataset文件到电脑, 
    
    在PowerBI Desktop中打开本地文件
+   
+- PowerBI pagiate report
+
+https://www.youtube.com/watch?v=s6Amctk3Z_g&list=PL1N57mwBHtN1icIhpjQOaRL8r9G-wytpT&index=2
