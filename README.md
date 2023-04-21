@@ -1,5 +1,8 @@
 # Power-BI-Note
 
+![image](https://user-images.githubusercontent.com/117897416/233635565-7a94f609-d171-472f-960b-61d96e41a7a3.png)
+
+
 - some samples from microsoft
 
 https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets
