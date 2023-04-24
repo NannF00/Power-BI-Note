@@ -38,6 +38,6 @@ https://www.youtube.com/watch?v=s6Amctk3Z_g&list=PL1N57mwBHtN1icIhpjQOaRL8r9G-wy
 
 https://learn.microsoft.com/en-us/analysis-services/tom/tom-pbi-datasets?view=asallproducts-allversions
 
--什么是XMLA
+- 什么是XMLA
 
 https://radacad.com/what-is-the-xmla-endpoint-for-power-bi-and-why-should-i-care
