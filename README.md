@@ -33,3 +33,7 @@ https://www.youtube.com/watch?v=s6Amctk3Z_g&list=PL1N57mwBHtN1icIhpjQOaRL8r9G-wy
    use English
 
 ![image](https://user-images.githubusercontent.com/117897416/233667367-d0f0a1e7-cdc9-4839-95ff-269dd3665e97.png)
+
+- Programming Power BI datasets with the Tabular Object Model (TOM)
+
+https://learn.microsoft.com/en-us/analysis-services/tom/tom-pbi-datasets?view=asallproducts-allversions
