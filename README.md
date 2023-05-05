@@ -41,3 +41,12 @@ https://learn.microsoft.com/en-us/analysis-services/tom/tom-pbi-datasets?view=as
 - 什么是XMLA
 
 https://radacad.com/what-is-the-xmla-endpoint-for-power-bi-and-why-should-i-care
+
+- Power BI 连接MySQL数据库
+
+下载一个MySQL Connector Net 然后在获取数据里选"MySQL数据库".
+
+输入服务器和数据库就行了.
+
+![image](https://user-images.githubusercontent.com/117897416/236440435-04a5c2a1-0b82-4039-af99-d0f32cc19ef8.png)
+
