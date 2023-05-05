@@ -15,6 +15,9 @@
 ![image](https://user-images.githubusercontent.com/117897416/236468038-ab326b1b-ac4c-4a65-aa75-37a6de3ecd9f.png)
 
 
-
 ![image](https://user-images.githubusercontent.com/117897416/236468184-3ca3fce1-df13-476e-ae04-310e049a8f4f.png)
+
+# 只有一张表怎么办: 人工造表
+
+在人工表中拿出一列 
 
