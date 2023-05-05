@@ -21,4 +21,8 @@
 
 在人工表中拿出一列 
 
+![image](https://user-images.githubusercontent.com/117897416/236470576-770e106c-2e66-4b95-b74d-a91daf53c319.png)
+
+后台:
+
 ![image](https://user-images.githubusercontent.com/117897416/236469515-fdd54537-35fc-48cb-8021-5249711d5a51.png)
