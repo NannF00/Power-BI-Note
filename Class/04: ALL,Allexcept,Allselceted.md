@@ -4,6 +4,8 @@
 
 不用all,就筛选成1了,不是总数26
 
+# 
+
 ![image](https://user-images.githubusercontent.com/117897416/236496946-e2f634b1-e1b8-4cff-8ec7-fa8bb2f158d5.png)
 
 
