@@ -17,7 +17,7 @@
 
 ![image](https://user-images.githubusercontent.com/117897416/236468184-3ca3fce1-df13-476e-ae04-310e049a8f4f.png)
 
-# 只有一张表怎么办: 人工造表
+# 只有一张表怎么办: 人工造表 VALUES('表'[列名])
 
 在人工表中拿出一列 
 
