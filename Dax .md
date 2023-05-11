@@ -22,7 +22,7 @@
   
   https://learn.microsoft.com/en-us/dax/substitute-function-dax
   
-- 添加列 ADDCOLUMNS(<table>, <name>, <expression>/[, <name>, <expression>/]…)  
+- 添加列 ADDCOLUMNS(<table>, <name>, <expression>/*[, <name>, <expression>/*]…)  
     
   返回原表+新列
   
