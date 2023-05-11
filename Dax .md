@@ -13,3 +13,13 @@ return: 向上取significance范围内的数.eg. CEILING(10.1, 1) ----> return: 
 - BLANK()
 
 返回空白
+
+- UNION合并 UNION(<table_expression1>, <table_expression2> [,<table_expression>]…)  
+
+https://learn.microsoft.com/en-us/dax/union-function-dax#return-value
+
+- Substitute 替换 SUBSTITUTE(<text>, <old_text>, <new_text>, <instance_num>)  
+  
+https://learn.microsoft.com/en-us/dax/substitute-function-dax
+  
+  
