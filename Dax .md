@@ -22,5 +22,8 @@ https://learn.microsoft.com/en-us/dax/union-function-dax#return-value
   
 https://learn.microsoft.com/en-us/dax/substitute-function-dax
   
+- 添加列 ADDCOLUMNS(<table>, <name>, <expression>[, <name>, <expression>]…)  
   
+返回原表+新列
   
+  https://learn.microsoft.com/en-us/dax/addcolumns-function-dax
