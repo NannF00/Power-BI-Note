@@ -50,3 +50,6 @@ https://radacad.com/what-is-the-xmla-endpoint-for-power-bi-and-why-should-i-care
 
 ![image](https://user-images.githubusercontent.com/117897416/236440435-04a5c2a1-0b82-4039-af99-d0f32cc19ef8.png)
 
+- 列转行
+
+https://blog.csdn.net/qq_24470501/article/details/121925516
