@@ -6,3 +6,12 @@
 
 ![image](https://github.com/NannF00/Power-BI-Note/assets/117897416/6df7da4a-c3fa-4b5f-a011-fbd522d64a60)
 
+# 对空白行的处理
+
+- Values: 包括没有匹配的空白行
+
+- Distinct: 不返回没有匹配的空白行
+
+![image](https://github.com/NannF00/Power-BI-Note/assets/117897416/bfd51302-572a-425a-a8ef-6277697eab0e)
+
+![image](https://github.com/NannF00/Power-BI-Note/assets/117897416/c6aab261-c285-4f5b-801c-70d15b5cb296)
