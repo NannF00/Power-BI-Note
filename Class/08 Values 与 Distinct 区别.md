@@ -15,3 +15,4 @@
 ![image](https://github.com/NannF00/Power-BI-Note/assets/117897416/bfd51302-572a-425a-a8ef-6277697eab0e)
 
 ![image](https://github.com/NannF00/Power-BI-Note/assets/117897416/c6aab261-c285-4f5b-801c-70d15b5cb296)
+![image](https://github.com/NannF00/Power-BI-Note/assets/117897416/5ff10ddb-1fc1-4395-ac94-7d0327563b17)
