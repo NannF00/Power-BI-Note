@@ -56,5 +56,7 @@ https://blog.csdn.net/qq_24470501/article/details/121925516
 
 - 企业版运行示意图
 
+https://learn.microsoft.com/zh-cn/power-bi/guidance/powerbi-implementation-planning-usage-scenario-enterprise-bi
+
 ![image](https://github.com/NannF00/Power-BI-Note/assets/117897416/8a29f658-c0a9-483c-a9a4-3919bbd01ad0)
 
