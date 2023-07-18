@@ -18,7 +18,18 @@ https://zhuanlan.zhihu.com/p/433191790#:~:text=%E6%94%B6%E8%97%8F%20%7C%2021%E4%
 
 SUMMARIZE (<table>, <groupBy_columnName>[, <groupBy_columnName>]…[, <name>, <expression>]…)
 
-.[].是代替前面出现的表达式的意思.表示也可以按照[]内的格式写.
+[]是代替前面出现的表达式的意思.表示也可以按照[]内的格式写.
 
-[, <groupBy_columnName>]
+[, <groupBy_columnName>] 的逗号",",前面是新起的列名,后面是列或者新的函数表达式.
+
+例:
+
+    SUMMARIZE(ResellerSales_USD  
+          , DateTime[CalendarYear]  , ProductCategory[ProductCategoryName]  
+          , "Sales Amount (USD)", SUM(ResellerSales_USD[SalesAmount_USD])  
+          , "Discount Amount (USD)", SUM(ResellerSales_USD[DiscountAmount])  
+          )  
+
+![image](https://github.com/NannF00/Power-BI-Note/assets/117897416/75d585d0-2e10-4761-b4c1-9ade1c761bca)
+
 
