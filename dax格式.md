@@ -25,10 +25,13 @@ https://zhuanlan.zhihu.com/p/433191790#:~:text=%E6%94%B6%E8%97%8F%20%7C%2021%E4%
 例:
 
     SUMMARIZE(ResellerSales_USD  
-          , DateTime[CalendarYear]  , ProductCategory[ProductCategoryName]  
+          , DateTime[CalendarYear] 
+          , ProductCategory[ProductCategoryName]  
           , "Sales Amount (USD)", SUM(ResellerSales_USD[SalesAmount_USD])  
           , "Discount Amount (USD)", SUM(ResellerSales_USD[DiscountAmount])  
           )  
+
+结果有四列
 
 ![image](https://github.com/NannF00/Power-BI-Note/assets/117897416/75d585d0-2e10-4761-b4c1-9ade1c761bca)
 
