@@ -18,9 +18,9 @@ https://zhuanlan.zhihu.com/p/433191790#:~:text=%E6%94%B6%E8%97%8F%20%7C%2021%E4%
 
     SUMMARIZE (<table>, <groupBy_columnName>[, <groupBy_columnName>]…[, <name>, <expression>]…)
 
-[]是代替前面出现的表达式的意思.表示也可以按照[]内的格式写.
+- []是代替前面出现的表达式的意思.表示也可以按照[]内的格式写.
 
-[, <groupBy_columnName>] 的逗号",",前面是新起的列名,后面是列或者新的函数表达式.
+- [, <groupBy_columnName>] 的逗号",",前面是新起的列名,后面是列或者新的函数表达式.
 
 例:
 
