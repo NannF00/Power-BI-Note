@@ -12,6 +12,6 @@ https://mp.weixin.qq.com/s?__biz=MzA4MzQwMjY4MA==&mid=2484067276&idx=1&sn=0226bc
 
 
     nWorkDayOfYear = 
-    var theyear= YEAR('Date'[nYear])
+        var theyear= 'Date'[nYear] 获取当前行年份
     return
         SUMX(FILTER('Date','Date'[nYear]=theyear&&'Date'[dDate]<=EARLIER('Date'[dDate])),'Date'[nISArbeitstag])
